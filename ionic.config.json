@@ -1,5 +1,7 @@
 {
   "name": "streaming",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
